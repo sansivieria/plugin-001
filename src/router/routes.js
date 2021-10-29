@@ -6,22 +6,22 @@ import Contact from '../pages/Contact';
 
 const routes = [
 	{
-		Component: Contact,
+		Component: One,
 		key: 'Contact',
 		path: '/contact'
 	},
 	{
-		Component: Home,
+		Component: Two,
 		key: 'Home',
 		path: '/home'
 	},
 	{
-		Component: About,
+		Component: Three,
 		key: 'About',
 		path: '/about'
 	},
 	{
-		Component: App,
+		Component: Four,
 		key: 'App',
 		path: '/'
 	}
