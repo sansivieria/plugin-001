@@ -8,6 +8,12 @@ const NavBar = props => {
 				<Link key={key} to={path}>
 					{key}
 				</Link>
+				<Link key={key} to={path}>
+					{key}
+				</Link>
+				<Link key={key} to={path}>
+					{key}
+				</Link>
 			))}
 		</nav>
 	);

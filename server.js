@@ -39,6 +39,7 @@ app.get('*', (req, res) => {
 
 app.listen(PORT, () => {
     console.log(`API Listening on port ${PORT}`);
+    console.log(`DO NOT KMS TODAY MAKE SURE TO THANK UNIVERSE`)
 });
 
 
